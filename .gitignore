@@ -1,0 +1,12 @@
+.idea/*
+.DS_Store
+.vscode
+sitemap.xml
+installed
+conf/app.conf
+vendor
+go-blog-2.0.0
+go-blog-2.0.0.tar.gz
+*.mxl
+*.midi
+*.musicxml
